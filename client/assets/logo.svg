@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="256" viewBox="0 0 768 256">
+  <g transform="translate(34 28)" stroke="#07111f" stroke-width="10" stroke-linejoin="round">
+    <path d="M100 0 187 50V150L100 200 13 150V50Z" fill="#102a47"/>
+    <path d="M100 22 164 59 129 79 100 63 71 79 36 59Z" fill="#4ed7ff"/>
+    <path d="M36 80 72 101V142L100 158V200L13 150V50Z" fill="#2f7ef7"/>
+    <path d="M164 80 128 101V142L100 158V200L187 150V50Z" fill="#ff4b57"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="900" letter-spacing="0">
+    <text x="255" y="118" font-size="82" fill="#f2f7ff" stroke="#07111f" stroke-width="9" paint-order="stroke">STRIKE</text>
+    <text x="258" y="184" font-size="52" fill="#61dcff" stroke="#07111f" stroke-width="7" paint-order="stroke">PROTOCOL</text>
+  </g>
+  <path d="M258 207H691" stroke="#ff4b57" stroke-width="9" stroke-linecap="round"/>
+</svg>
