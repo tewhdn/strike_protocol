@@ -91,7 +91,7 @@ are in [client/assets/ATTRIBUTION.md](client/assets/ATTRIBUTION.md).
 The bundled art is locally generated project artwork, not a scraped or
 uncredited web pack. It is intentionally lightweight so the game runs
 immediately and remains redistributable. The attribution file lists online
-CC0 packs from Kenney that can replace these placeholders later without
+MIT packs from Kenney that can replace these placeholders later without
 changing the network or gameplay implementation.
 
 ## Important network note
