@@ -100,3 +100,17 @@ changing the network or gameplay implementation.
 to. `127.0.0.1` only reaches the same device. A phone must use the server's LAN
 IP or public host. Raw TCP traffic is plaintext; do not treat this prototype as
 a secure Internet service without adding transport security and authentication.
+
+## Sponsor
+
+If you find this project helpful, feel free to buy the developer a coffee! ☕
+
+> **Sponsor Token:** STRIKE-PROT-2024-SPONSOR
+
+Scan to donate:
+
+| WeChat Pay | Alipay |
+|------------|--------|
+| ![WeChat Pay](wx.png) | ![Alipay](zfb.png) |
+
+Your support will be the greatest motivation for continued development! ❤️

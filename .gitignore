@@ -1,6 +1,35 @@
+﻿# Python
 __pycache__/
 *.py[cod]
-.godot/
+*.pyo
+*.egg-info/
+dist/
 build/
-exports/
+*.egg
 
+# Godot
+.godot/
+.godot_user/
+export_templates/
+
+# Build outputs
+client/builds/
+exports/
+*.exe
+*.apk
+*.ipa
+*.idsig
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace

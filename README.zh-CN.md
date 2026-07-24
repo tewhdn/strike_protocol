@@ -100,3 +100,17 @@ python -m strike_protocol.server.test_server
 - [协议文档](protocol.md)
 - [构建指南](docs/BUILD_AND_NETWORK.md)
 - [资源版权说明](client/assets/ATTRIBUTION.md)
+
+## 赞助支持
+
+如果这个项目对你有帮助，欢迎请作者喝杯咖啡！☕
+
+> **Sponsor Token:** STRIKE-PROT-2024-SPONSOR
+
+扫码赞赏：
+
+| 微信支付 | 支付宝 |
+|----------|--------|
+| ![微信支付](wx.png) | ![支付宝](zfb.png) |
+
+感谢你的支持，这将是项目持续开发的最大动力！❤️
